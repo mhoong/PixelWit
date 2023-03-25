@@ -19,8 +19,10 @@ const App = () => {
         >
           Create
         </Link>
-
       </header>
+      <main>
+        
+      </main>
     </BrowserRouter>
   )
 }
