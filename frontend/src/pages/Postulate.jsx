@@ -1,7 +1,9 @@
+// Creating a post page
+
 const Postulate = () => {
     return (
       <h1 className="text-3xl font-bold underline">
-        Creat Post
+        Create Post
       </h1>
     )
   }
