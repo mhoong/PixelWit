@@ -33,9 +33,13 @@ Coming soon...
 #### Teck-Stack
 <sub>
 - Mongoose 
+ <br>
 - Express 
+ <br>
 - React
+ <br>
 - Node 
+ <br>
 - Tailwind 
 </sub>
 
