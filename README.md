@@ -30,11 +30,11 @@ Coming soon...
 
 #### Teck-Stack
 <sub>
-* Mongoose 
-* Express 
-* React
-* Node 
-* Tailwind 
+- Mongoose 
+- Express 
+- React
+- Node 
+- Tailwind 
 </sub>
 
 
