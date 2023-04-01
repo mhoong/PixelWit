@@ -43,7 +43,7 @@ const Home = () => {
                 Showing Results for <span className="text-[#222328]"> {searchText} </span>
               </h2>
             )}
-            <div>
+            <div className="grid lg:grid-cols-4 sm:grid-cols-3 xs:grid-cols-2 grid-cols-1g gap-3">
 
             </div>
             </>
