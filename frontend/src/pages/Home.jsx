@@ -3,6 +3,15 @@
 import { useState,useEffect } from "react"
 import { Loader, Card, Forms } from "../components"
 
+const RenderCards = ({data, title}) => {
+  if(data?.length > 0 ) {
+  return data.map((post) => <Card key={post._id} {...post} />)
+  }
+  return (
+    <h2>{title}</h2>
+  )
+}
+
 const Home = () => {
 
   const [loading,setLoading] = useState(false)
@@ -33,7 +42,7 @@ const Home = () => {
               </h2>
             )}
             <div>
-              
+
             </div>
             </>
           )}
