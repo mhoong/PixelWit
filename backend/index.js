@@ -12,3 +12,6 @@ app.get('/', async (req, res) => {
     res.send("Hi, I'm PixelWit")
 })
 
+const startServer = async () => {
+    app.listen(8000, () => console.log('Server is running on port http://localhost:8000'))
+}
