@@ -1,7 +1,9 @@
 const Forms = () => {
     return (
       <div>
-        Forms
+        <form>
+          <input />
+        </form>
       </div>
     )
   }
