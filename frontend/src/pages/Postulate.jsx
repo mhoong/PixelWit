@@ -8,6 +8,7 @@ import { FormField, Loader } from '../components';
 
 
 const Postulate = () => {
+
     return (
       <h1 className="text-3xl font-bold underline">
         CreatePost
